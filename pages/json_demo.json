@@ -1,0 +1,67 @@
+[
+    {
+        "name": "John Smith",
+        "address": "0x04c677c7AB1c5bc0F769a03388f88e6BA735d8bD",
+        "password": "test123",
+        "role": "user",
+        "access": "true"
+    },
+    {
+        "name": "CampaignManager",
+        "address": "0xE17AF25A77e0416F78921A3205E638c0567C762D",
+        "password": "test111",
+         "role": "manager",
+         "access": "true"
+    },
+    {
+        "name": "Force10",
+        "address": "0xE69D1402D84E4CbFF29E31dcD25ace4FFCFD48Cb",
+        "password": "test",
+        "role": "contributer",
+        "access": "true"
+
+    },
+    {
+        "name": "Mahindra",
+        "address": "0x82D5ed0551831b4c404341FF37d34f5A364FAf8c",
+        "password": "test",
+        "role": "contributer",
+        "access": "true"
+    },
+    {
+        "name": "Bajaj",
+        "address": "0x7248543645A20f45DbAb8f1bDefC8A9E8fbE7618",
+        "password": "test",
+        "role": "contributer",
+        "access": "true"
+    },
+    {
+        "name": "Emisure Labs",
+        "address": "0x87d467bd7C1CAB68B32bDca80a440f261a0a6372",
+        "password": "test",
+        "role": "recipient",
+        "access": "true"
+    },
+    {
+        "name": "AlphaPistons",
+        "address": "0x28Bfd7e1Af5f21D1EbEBCC2eCf1B168455918356",
+        "password": "test",
+        "role": "recipient",
+        "access": "true"
+    },
+    {
+        "name": "Bharat Locomotive",
+        "address": "0x90BD18058138f7fDdfA21ecf945c22e81C93144a",
+        "password": "test",
+        "role": "recipient",
+        "access": "true"
+    }
+    ,
+    {
+        "name": "superuser",
+        "address": "0x98E0E5810D9e262c4AC19815b57c68B7Bf6050a6",
+        "password": "test",
+        "role": "superuser",
+        "access": "true"
+    }
+]
